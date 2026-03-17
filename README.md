@@ -40,6 +40,12 @@ Sign of transition: there is any result + you feel energy and want to continue.
 
 ### Step 6. You Are a Digital Centaur
 You understand and declare that you have already become a Digital Centaur. New interesting tasks appear that you solve together with AI.  
+---
+
+**Contact the author:**  
+an4571104@gmail.com  
+
+If you have any questions, feedback or you tried the algorithm — feel free to write me. I'd love to hear from you.
 Repeat Step 4 whenever you want.
 
 ---
